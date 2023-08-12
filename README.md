@@ -4,7 +4,6 @@
 
 * 2-) Kullanıcının sınırlı denemelerle belirli bir şifreyi doğru girmeye çalıştığı bir yapıdır. 🔐
 
-* 3-) Kullanıcının sınırlı denemelerle belirli bir şifreyi doğru girmeye çalıştığı bir yapıdır. 🔐
+* 3-) 💲Kullanıcının sınırlı denemelerle rastgele belirlenen bir sayıyı doğru tahmin etmeye çalıştığı kod parçası. 🧠🔍
 
-* 4-) 💲Kullanıcının sınırlı denemelerle rastgele belirlenen bir sayıyı doğru tahmin etmeye çalıştığı kod parçası. 🧠🔍
 
